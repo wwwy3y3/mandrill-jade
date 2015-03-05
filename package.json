@@ -1,0 +1,24 @@
+{
+  "name": "mandrill-jade",
+  "version": "0.0.0",
+  "description": "email template using jade and mandrill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wwwy3y3/mandrill-jade.git"
+  },
+  "keywords": [
+    "mandrill",
+    "jade",
+    "email"
+  ],
+  "author": "wwwy3y3",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/wwwy3y3/mandrill-jade/issues"
+  },
+  "homepage": "https://github.com/wwwy3y3/mandrill-jade"
+}
